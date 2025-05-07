@@ -68,7 +68,8 @@ The file `nba_stats.csv` contains advanced statistics for 529 NBA players (age, 
 
 ### NBA Player Clusters (K-Means + PCA)
 
-![plotly-graph](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/graph.png)
+![plotly-graph](https://github.com/franckessi237/nba-similarity-analysis/blob/Master/assets/plotly-graph.png?raw=true)
+
 
 ---
 
